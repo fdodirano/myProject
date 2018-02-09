@@ -27,3 +27,4 @@ if($result){
 mysqli_close($conn)
 
 ?>
+<p>Added something</p>
