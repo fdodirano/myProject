@@ -8,10 +8,10 @@
 
 --------------------------------------------------------------------------------------------------------------
 
-<!--<form action="upload_excel.php" method="post" enctype="multipart/form-data">
+<form action="upload_excel.php" method="post" enctype="multipart/form-data">
     <label>Select sheet:</label>
     <input size="20px" type="file" name="file">
     <button type="submit" name="excel">Upload</button>
     <button type="reset">Reset</button>
-</form>   -->
+</form>   
   
