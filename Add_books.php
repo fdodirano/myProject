@@ -1,3 +1,4 @@
+<p>just testing to see whats up</p>
 <?php
 $pageTitle = "Register new patrons";
 include_once 'header1.php';

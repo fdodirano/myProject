@@ -16,6 +16,7 @@ $department = "";
 $reg_num = "";
 $program_type = "";
 $result = "";
+$error = "";
 
 $name = $_FILES['file']['name'];
 $tmp_name = $_FILES['file']['tmp_name'];
